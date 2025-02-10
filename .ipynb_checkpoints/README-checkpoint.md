@@ -1,8 +1,7 @@
 # PlantSmart
-# AgriSense: Smart Soil Analyzer
 
 ## Project Overview
-*AgriSense* is an *IoT-based soil monitoring system* that measures essential soil contents like *Sulfur, Nitrogen, Oxygen, Moisture, pH, and Temperature*. The device provides **real-time data analysis** to help farmers optimize soil health and crop yield.
+*PlantSmart* is an *IoT-based soil monitoring system* that measures essential soil contents like *Sulfur, Nitrogen, Oxygen, Moisture, pH, and Temperature*. The device provides **real-time data analysis** to help farmers optimize soil health and crop yield.
 
 ---
 
@@ -152,4 +151,4 @@ Create a user-friendly interface for farmers to *monitor soil health* and receiv
 ---
 ## Conclusion
 
-*AgriSense* is a smart IoT system designed to *help farmers monitor soil health in real time*. By leveraging IoT, AI, and cloud computing, it aims to **improve agricultural efficiency** and *reduce manual soil testing efforts*.
+*PlatSmart* is a smart IoT system designed to *help farmers monitor soil health in real time*. By leveraging IoT, AI, and cloud computing, it aims to **improve agricultural efficiency** and *reduce manual soil testing efforts*.
